@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-streamlit
-requests
-python-multipart # Required by FastAPI for Form data
-pandas # For displaying entities in a structured way in Streamlit

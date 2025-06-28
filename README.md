@@ -34,7 +34,7 @@ I am passionate about building intelligent systems that make a positive impact, 
 | 2  | [Sentiment Analyzer (Mistral via Ollama)](https://github.com/Hardik-Sankhla/Mistral-Sentiment-Analyzer) | Detects sentiment (positive, negative, neutral) in multilingual text data, with visualization dashboards for insights. |
 | 3  | [Image Caption Generator (LLaVA via Ollama)](https://github.com/Hardik-Sankhla/LLaVA-Image-Captioning) | Generates accurate, context-aware captions for images using advanced vision-language models. |
 | 4  | [Code Review Assistant (DeepSeek-Coder via Ollama)](https://github.com/Hardik-Sankhla/CodeSage) | Automates code review, highlights bugs, and suggests improvements using LLMs tailored for code understanding. |
-| 5  | [Meeting Notes Generator (LLaMA2 via Ollama)](https://github.com/Hardik-Sankhla/Meeting-Notes-Generator) | Transcribes voice memos and generates structured, actionable meeting notes with task extraction. |
+| 5  | [Meeting Notes Generator (LLaMA2 via Ollama)](https://github.com/Hardik-Sankhla/EchoNotes) | Transcribes voice memos and generates structured, actionable meeting notes with task extraction. |
 | 6  | [Product Review Analyzer](https://github.com/Hardik-Sankhla/Product-Review-Analyzer) | Extracts key insights, trends, and sentiment from large volumes of customer reviews for retail analytics. |
 | 7  | [Medical Note Structuring Assistant](https://github.com/Hardik-Sankhla/Medical-Note-Structuring) | Structures and summarizes unstructured medical notes, aiding clinics in faster patient data processing. |
 | 8  | [Legal Document Summarizer & Clause Extractor](https://github.com/Hardik-Sankhla/Legal-Doc-Summarizer) | Summarizes lengthy legal documents and extracts critical clauses for legal professionals. |
