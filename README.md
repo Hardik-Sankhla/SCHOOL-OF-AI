@@ -1,4 +1,4 @@
-## 📁 Project Portfolio
+# 📁 Project Portfolio
 
 Explore a curated list of 25+ projects completed during my internship. Each project folder contains its own README, source code, and documentation. The table below provides direct links and detailed descriptions for each project.
 
@@ -16,16 +16,17 @@ Explore a curated list of 25+ projects completed during my internship. Each proj
 ## About Me
 
 **Hardik Sankhla**  
+
 - 💼 AI Intern at School of AI  
 - 👨‍💻 [GitHub: Hardik-Sankhla](https://github.com/Hardik-Sankhla)  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/hardik-sankhla/)  
-- 📫 Email: datascientist.hardiksankhla@gmail.com
+- 📫 Email: **datascientist.hardiksankhla@gmail.com**
 
 I am passionate about building intelligent systems that make a positive impact, focusing on state-of-the-art AI models to create innovative solutions across industries.
 
 ---
 
-## 📁 Project Portfolio
+### 📁  Project Portfolio
 
 | #  | Project Title & Link | Description |
 |----|----------------------|-------------|
@@ -59,7 +60,7 @@ I am passionate about building intelligent systems that make a positive impact, 
 
 ---
 
-## 📊 Key Highlights
+### 📊 Key Highlights
 
 - **Interactive Demos:** Many projects include live demos or video walkthroughs.
 - **Scalable Architectures:** Solutions are modular and scalable for easy extension or integration.
@@ -68,7 +69,7 @@ I am passionate about building intelligent systems that make a positive impact, 
 
 ---
 
-## 🔗 Useful Links
+### 🔗 Useful Links
 
 - 👨‍💻 [My GitHub Profile](https://github.com/Hardik-Sankhla)
 - 🏫 [School of AI](https://schoolofai.dev/)
@@ -76,7 +77,7 @@ I am passionate about building intelligent systems that make a positive impact, 
 
 ---
 
-## 🤝 Get in Touch
+### 🤝 Get in Touch
 
 Thank you for visiting this repository!  
 For questions, collaborations, or feedback, reach out via [email](mailto:hardiksankhla.dev@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/hardik-sankhla/).
