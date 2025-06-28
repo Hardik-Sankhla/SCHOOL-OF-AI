@@ -171,4 +171,3 @@ Hardik is the founder of School of AI India and has mentored hundreds of student
 *Developed with ❤️ by Hardik Sankhla*
 
 > *“Turning legal complexity into clarity—one document at a time.”*
-
