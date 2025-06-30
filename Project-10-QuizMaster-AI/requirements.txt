@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+streamlit
+requests
+python-multipart # Required by FastAPI for Form data
+pandas # Included for general compatibility, though not directly used for structured display in this specific project

@@ -1,0 +1,32 @@
+The Carbon Cycle: A Fundamental Earth Process
+
+The carbon cycle is a biogeochemical cycle by which carbon is exchanged among the biosphere, pedosphere, geosphere, hydrosphere, and atmosphere of the Earth. It is one of the most important cycles on Earth and allows for the continuous recycling of carbon, which is a fundamental building block of life.
+
+Key Reservoirs of Carbon:
+
+Atmosphere: Carbon exists primarily as carbon dioxide (CO2) gas.
+
+Oceans (Hydrosphere): Carbon is dissolved in water as CO2, carbonic acid, bicarbonate ions, and carbonate ions. Marine organisms also incorporate carbon into their shells and skeletons.
+
+Land (Biosphere & Pedosphere): Carbon is found in organic matter (plants, animals, soil) and inorganic forms (e.g., carbonates in rocks).
+
+Sediments and Rocks (Geosphere): The largest reservoir of carbon, stored over millions of years in fossil fuels (coal, oil, natural gas) and sedimentary rocks like limestone.
+
+Main Processes in the Carbon Cycle:
+
+Photosynthesis: Plants absorb CO2 from the atmosphere (or dissolved in water) to produce glucose and oxygen. This process removes carbon from the atmosphere.
+
+Respiration: Organisms (plants, animals, microbes) release CO2 back into the atmosphere (or water) as they break down organic matter for energy.
+
+Decomposition: Decomposers (bacteria, fungi) break down dead organic material, releasing CO2 and methane (CH4) into the atmosphere and carbon into the soil.
+
+Combustion: Burning of fossil fuels, wood, and other organic matter releases large amounts of CO2 into the atmosphere. This is a major contributor to increased atmospheric CO2 levels due to human activities.
+
+Oceanic Exchange: CO2 dissolves in and out of ocean waters. Colder waters absorb more CO2, while warmer waters release it.
+
+Sedimentation & Burial: Over long geological timescales, organic matter can be buried and transformed into fossil fuels or form sedimentary rocks, locking carbon away.
+
+Volcanic Activity: Volcanoes release CO2 into the atmosphere.
+
+Human Impact on the Carbon Cycle:
+Human activities, primarily the burning of fossil fuels, deforestation, and industrial processes, have significantly altered the natural carbon cycle, leading to an increase in atmospheric CO2 concentrations. This increase is a major driver of climate change.
