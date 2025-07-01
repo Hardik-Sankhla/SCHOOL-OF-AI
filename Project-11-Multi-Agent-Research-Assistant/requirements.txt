@@ -1,0 +1,14 @@
+streamlit
+requests
+pandas
+uvicorn
+fastapi
+python-multipart
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+python-dotenv # Added for .env file support
+langchain_ollama
+serpapi
+google-search-results
