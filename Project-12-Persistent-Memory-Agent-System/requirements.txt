@@ -1,0 +1,12 @@
+streamlit
+requests
+uvicorn
+fastapi
+python-multipart
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+python-dotenv
+langchain-ollama
+tinydb # For local JSON-based memory storage
